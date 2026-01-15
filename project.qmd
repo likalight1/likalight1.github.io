@@ -1,0 +1,101 @@
+---
+title: "FYP Project"
+---
+
+## 📌 Project Overview
+
+This page highlights two major project experiences that shaped my interest in applied computing and data-driven systems. The first was my **Final Year Project (FYP)** at Temasek Polytechnic (TP) in **Aviation Management**, conducted in collaboration with **Changi Airport Group (CAG)**. The second was my technical work during **National Service (NS)** under the **Digital Intelligence Service**, where I was exposed to applied artificial intelligence and data analytics in an operational environment.
+
+Together, these experiences motivated my transition into **Applied Computing (FinTech)** at the Singapore Institute of Technology (SIT).
+
+---
+
+## ✈️ Final Year Project (TP): AR Wayfinding at Changi Airport
+
+During my diploma studies in **Aviation Management** at Temasek Polytechnic, I worked on a Final Year Project in collaboration with **Changi Airport Group (CAG)**. The project explored the feasibility of implementing **Augmented Reality (AR) wayfinding** solutions to enhance passenger navigation within airport terminals.
+
+Large international airports such as Changi Airport serve millions of passengers annually, and first-time or transit passengers often experience difficulty navigating terminals efficiently. Traditional static signage may not always provide intuitive or personalised guidance, especially in complex layouts. The project aimed to evaluate whether AR-based navigation could improve wayfinding efficiency and overall passenger experience.
+
+---
+
+### Technical Approach & Software Used
+
+Although the project originated from a non-computing discipline, it involved several technical and analytical components.
+
+**Key technologies and software used included:**
+
+- **Python**
+  - Used for basic scripting and logic development
+  - Simulated routing logic, distance calculations, and directional guidance
+  - Assisted in processing structured data related to navigation paths
+
+- **AR Development & Prototyping Tools**
+  - Mobile AR frameworks for concept prototyping
+  - 3D spatial mapping concepts to represent indoor environments
+  - User interaction design for visual overlays and directional cues
+
+- **Data & Productivity Tools**
+  - Microsoft Excel for data collection, comparison of navigation paths, and analysis
+  - Presentation and prototyping tools to communicate design concepts to stakeholders
+
+The emphasis of the project was not on building a full production system, but on assessing **concept feasibility**, **user experience**, and **operational value** in a real-world airport setting.
+
+---
+
+### Outcomes & Learning
+
+This project provided early exposure to:
+- translating real-world operational challenges into technical concepts,
+- applying data and logic to support navigation systems,
+- collaborating with an industry partner (CAG),
+- and communicating technical ideas clearly to non-technical stakeholders.
+
+The experience sparked my interest in technology-driven solutions and laid the foundation for my subsequent pursuit of applied computing.
+
+---
+
+## 🪖 National Service: Digital Intelligence Service
+
+During my National Service, I served under the **Digital Intelligence Service**, where I worked on technology-focused initiatives supporting intelligence and analytical capabilities. The role provided hands-on exposure to applied artificial intelligence, data processing, and analytical systems in a secure operational environment.
+
+---
+
+### AI, Semantic Search & Analytics Exposure
+
+Throughout my service, I supported projects involving **machine learning and data-driven analysis**, including:
+
+- **AI Model Training & Evaluation**
+  - Assisted in data preparation, preprocessing, and labelling
+  - Supported training and testing of AI models
+  - Evaluated model outputs and performance metrics
+
+- **Target Recognition Capabilities**
+  - Worked with systems designed for object and target recognition
+  - Gained understanding of how data quality, model accuracy, and false positives impact operational effectiveness
+  - Supported validation and testing workflows
+
+- **Semantic Search & Sentiment Analysis**
+  - Contributed to semantic search capabilities for analysing large volumes of unstructured text data
+  - Supported sentiment analysis to assess public opinion and trends across global sources
+  - Helped analyse how sentiment patterns could be identified and monitored using AI-driven search and retrieval techniques
+
+**Technologies and tools involved included:**
+- Python for scripting and data handling
+- Machine learning frameworks for model training workflows
+- Natural Language Processing (NLP) concepts such as embeddings and semantic similarity
+- Secure analytical platforms for data exploration and evaluation
+
+While the work was conducted within controlled environments, the experience provided valuable insight into real-world AI deployment and analytics.
+
+---
+
+## 🔗 Reflection & Impact
+
+These combined experiences — spanning aviation, AR systems, AI model training, semantic search, and sentiment analysis — strongly influenced my decision to pursue **Applied Computing (FinTech)** at SIT.
+
+They reinforced my interest in:
+- applied data analytics,
+- AI-enabled systems,
+- and the practical use of computing to support decision-making in complex environments.
+
+At SIT, I aim to further strengthen my technical foundations and continue applying computing and data to real-world problem domains.

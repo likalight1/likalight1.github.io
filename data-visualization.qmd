@@ -1,0 +1,49 @@
+---
+title: "Data Visualization"
+---
+
+## 📊 3-Month SORA Historical Trend (2020–2025)
+
+![](images/SORA.png){width=80%}
+
+This visualization was created to analyse how the **3-month Singapore Overnight Rate Average (SORA)** changed over time. The purpose of this task was to better understand interest rate movements and their potential impact on financial decisions such as borrowing and saving.
+
+---
+
+## 🎥 Visualization Walkthrough
+
+The following video provides a visual walkthrough of the data visualization used in this analysis. It complements the static graph by showing how the trends evolve over time and helps viewers better interpret the numerical patterns presented.
+
+{{< video src="https://www.youtube.com/watch?v=zdseWvijLQI" width="600" height="400" >}}
+
+---
+
+## 📈 What is visualized
+
+This visualization presents **quantitative time-series data** showing the **3-month Singapore Overnight Rate Average (SORA)** from **2020 to 2025**.
+
+- The **x-axis** represents time (month and year)
+- The **y-axis** represents interest rates (percentage)
+- Each data point corresponds to a numerical interest rate value for a given month
+
+In addition to SORA, the chart includes reference interest rates from major local banks (**DBS, OCBC, and UOB**) to provide contextual comparison.
+
+The data visualized consists entirely of **numerical values**, clearly satisfying the requirement for quantitative data visualization.
+
+---
+
+## 🧠 Rationale for the visualization
+
+A **line chart** was chosen because it is the most appropriate visualization method for **time-series financial data**. Line charts make it easy to observe trends, turning points, and fluctuations over time.
+
+Using multiple lines allows direct comparison between SORA and bank reference rates, making differences and similarities in interest rate movements immediately visible. This approach communicates patterns more effectively than viewing raw numerical data in a table.
+
+---
+
+## 📖 Story behind the visualization
+
+This visualization was created during my student life as part of a project in the **Foundations of FinTech** module. The goal of the project was to analyse how interest rates change over time and to understand their implications for financial products, borrowing costs, and savings decisions.
+
+The chart shows a prolonged period of low interest rates, followed by a sharp increase during monetary tightening, and a subsequent gradual decline. Visualising the data made it easier to interpret interest rate cycles and relate theoretical concepts from the module to real-world financial conditions.
+
+Overall, this visualization demonstrates how quantitative financial data can be transformed into meaningful insights through appropriate graphical representation.

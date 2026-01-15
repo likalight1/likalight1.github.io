@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Kalai’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Kalai, a Year 2 student studying Applied Computing (FinTech) at Singapore Institute of Technology (SIT).\nI’m interested in data analytics, data visualization, and building practical technology solutions that support better decision-making.\nThis website was created as part of my course assessment and includes:\n\nA short self-introduction\n\nA project page (renamed from the default “About” page)\n\nA Data Visualization page featuring a quantitative graph with explanation\n\nA Reflection on the use of GenAI page describing how AI tools supported my learning"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,194 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This page highlights two major project experiences that shaped my interest in applied computing and data-driven systems. The first was my Final Year Project (FYP) at Temasek Polytechnic (TP) in Aviation Management, conducted in collaboration with Changi Airport Group (CAG). The second was my technical work during National Service (NS) under the Digital Intelligence Service, where I was exposed to applied artificial intelligence and data analytics in an operational environment.\nTogether, these experiences motivated my transition into Applied Computing (FinTech) at the Singapore Institute of Technology (SIT)."
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This page highlights two major project experiences that shaped my interest in applied computing and data-driven systems. The first was my Final Year Project (FYP) at Temasek Polytechnic (TP) in Aviation Management, conducted in collaboration with Changi Airport Group (CAG). The second was my technical work during National Service (NS) under the Digital Intelligence Service, where I was exposed to applied artificial intelligence and data analytics in an operational environment.\nTogether, these experiences motivated my transition into Applied Computing (FinTech) at the Singapore Institute of Technology (SIT)."
+  },
+  {
+    "objectID": "project.html#final-year-project-tp-ar-wayfinding-at-changi-airport",
+    "href": "project.html#final-year-project-tp-ar-wayfinding-at-changi-airport",
+    "title": "FYP Project",
+    "section": "✈️ Final Year Project (TP): AR Wayfinding at Changi Airport",
+    "text": "✈️ Final Year Project (TP): AR Wayfinding at Changi Airport\nDuring my diploma studies in Aviation Management at Temasek Polytechnic, I worked on a Final Year Project in collaboration with Changi Airport Group (CAG). The project explored the feasibility of implementing Augmented Reality (AR) wayfinding solutions to enhance passenger navigation within airport terminals.\nLarge international airports such as Changi Airport serve millions of passengers annually, and first-time or transit passengers often experience difficulty navigating terminals efficiently. Traditional static signage may not always provide intuitive or personalised guidance, especially in complex layouts. The project aimed to evaluate whether AR-based navigation could improve wayfinding efficiency and overall passenger experience.\n\n\nTechnical Approach & Software Used\nAlthough the project originated from a non-computing discipline, it involved several technical and analytical components.\nKey technologies and software used included:\n\nPython\n\nUsed for basic scripting and logic development\nSimulated routing logic, distance calculations, and directional guidance\nAssisted in processing structured data related to navigation paths\n\nAR Development & Prototyping Tools\n\nMobile AR frameworks for concept prototyping\n3D spatial mapping concepts to represent indoor environments\nUser interaction design for visual overlays and directional cues\n\nData & Productivity Tools\n\nMicrosoft Excel for data collection, comparison of navigation paths, and analysis\nPresentation and prototyping tools to communicate design concepts to stakeholders\n\n\nThe emphasis of the project was not on building a full production system, but on assessing concept feasibility, user experience, and operational value in a real-world airport setting.\n\n\n\nOutcomes & Learning\nThis project provided early exposure to: - translating real-world operational challenges into technical concepts, - applying data and logic to support navigation systems, - collaborating with an industry partner (CAG), - and communicating technical ideas clearly to non-technical stakeholders.\nThe experience sparked my interest in technology-driven solutions and laid the foundation for my subsequent pursuit of applied computing."
+  },
+  {
+    "objectID": "project.html#national-service-digital-intelligence-service",
+    "href": "project.html#national-service-digital-intelligence-service",
+    "title": "FYP Project",
+    "section": "🪖 National Service: Digital Intelligence Service",
+    "text": "🪖 National Service: Digital Intelligence Service\nDuring my National Service, I served under the Digital Intelligence Service, where I worked on technology-focused initiatives supporting intelligence and analytical capabilities. The role provided hands-on exposure to applied artificial intelligence, data processing, and analytical systems in a secure operational environment.\n\n\nAI, Semantic Search & Analytics Exposure\nThroughout my service, I supported projects involving machine learning and data-driven analysis, including:\n\nAI Model Training & Evaluation\n\nAssisted in data preparation, preprocessing, and labelling\nSupported training and testing of AI models\nEvaluated model outputs and performance metrics\n\nTarget Recognition Capabilities\n\nWorked with systems designed for object and target recognition\nGained understanding of how data quality, model accuracy, and false positives impact operational effectiveness\nSupported validation and testing workflows\n\nSemantic Search & Sentiment Analysis\n\nContributed to semantic search capabilities for analysing large volumes of unstructured text data\nSupported sentiment analysis to assess public opinion and trends across global sources\nHelped analyse how sentiment patterns could be identified and monitored using AI-driven search and retrieval techniques\n\n\nTechnologies and tools involved included: - Python for scripting and data handling - Machine learning frameworks for model training workflows - Natural Language Processing (NLP) concepts such as embeddings and semantic similarity - Secure analytical platforms for data exploration and evaluation\nWhile the work was conducted within controlled environments, the experience provided valuable insight into real-world AI deployment and analytics."
+  },
+  {
+    "objectID": "project.html#reflection-impact",
+    "href": "project.html#reflection-impact",
+    "title": "FYP Project",
+    "section": "🔗 Reflection & Impact",
+    "text": "🔗 Reflection & Impact\nThese combined experiences — spanning aviation, AR systems, AI model training, semantic search, and sentiment analysis — strongly influenced my decision to pursue Applied Computing (FinTech) at SIT.\nThey reinforced my interest in: - applied data analytics, - AI-enabled systems, - and the practical use of computing to support decision-making in complex environments.\nAt SIT, I aim to further strengthen my technical foundations and continue applying computing and data to real-world problem domains."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Kalai’s Website",
+    "section": "",
+    "text": "Hi, I’m Kalai, a Year 2 student studying Applied Computing (FinTech) at Singapore Institute of Technology (SIT).\nI’m interested in data analytics, data visualization, and building practical technology solutions that support better decision-making.\nThis website was created as part of my course assessment and includes:\n\nA short self-introduction\n\nA project page (renamed from the default “About” page)\n\nA Data Visualization page featuring a quantitative graph with explanation\n\nA Reflection on the use of GenAI page describing how AI tools supported my learning"
+  },
+  {
+    "objectID": "index.html#what-im-currently-learning",
+    "href": "index.html#what-im-currently-learning",
+    "title": "Kalai’s Website",
+    "section": "📘 What I’m currently learning",
+    "text": "📘 What I’m currently learning\n\nUsing Quarto to publish websites with R and RStudio\n\nWriting clear and structured explanations for code and results\n\nPresenting data in a way that tells a meaningful story, rather than just displaying numbers"
+  },
+  {
+    "objectID": "index.html#contact-links",
+    "href": "index.html#contact-links",
+    "title": "Kalai’s Website",
+    "section": "🔗 Contact & Links",
+    "text": "🔗 Contact & Links\n\nGitHub: https://github.com/likalight1\n\nEmail: kalairaajan@gmail.com"
+  },
+  {
+    "objectID": "data-visualization.html",
+    "href": "data-visualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This visualization was created to analyse how the 3-month Singapore Overnight Rate Average (SORA) changed over time. The purpose of this task was to better understand interest rate movements and their potential impact on financial decisions such as borrowing and saving."
+  },
+  {
+    "objectID": "data-visualization.html#month-sora-historical-trend-20202025",
+    "href": "data-visualization.html#month-sora-historical-trend-20202025",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This visualization was created to analyse how the 3-month Singapore Overnight Rate Average (SORA) changed over time. The purpose of this task was to better understand interest rate movements and their potential impact on financial decisions such as borrowing and saving."
+  },
+  {
+    "objectID": "data-visualization.html#what-is-visualized",
+    "href": "data-visualization.html#what-is-visualized",
+    "title": "Data Visualization",
+    "section": "📈 What is visualized",
+    "text": "📈 What is visualized\nThis visualization presents quantitative time-series data showing the 3-month Singapore Overnight Rate Average (SORA) from 2020 to 2025.\n\nThe x-axis represents time (month and year)\nThe y-axis represents interest rates (percentage)\nEach data point corresponds to a numerical interest rate value for a given month\n\nIn addition to SORA, the chart includes reference interest rates from major local banks (DBS, OCBC, and UOB) to provide contextual comparison.\nThe data visualized consists entirely of numerical values, clearly satisfying the requirement for quantitative data visualization."
+  },
+  {
+    "objectID": "data-visualization.html#rationale-for-the-visualization",
+    "href": "data-visualization.html#rationale-for-the-visualization",
+    "title": "Data Visualization",
+    "section": "🧠 Rationale for the visualization",
+    "text": "🧠 Rationale for the visualization\nA line chart was chosen because it is the most appropriate visualization method for time-series financial data. Line charts make it easy to observe trends, turning points, and fluctuations over time.\nUsing multiple lines allows direct comparison between SORA and bank reference rates, making differences and similarities in interest rate movements immediately visible. This approach communicates patterns more effectively than viewing raw numerical data in a table."
+  },
+  {
+    "objectID": "data-visualization.html#story-behind-the-visualization",
+    "href": "data-visualization.html#story-behind-the-visualization",
+    "title": "Data Visualization",
+    "section": "📖 Story behind the visualization",
+    "text": "📖 Story behind the visualization\nThis visualization was created during my student life as part of a project in the Foundations of FinTech module. The goal of the project was to analyse how interest rates change over time and to understand their implications for financial products, borrowing costs, and savings decisions.\nThe chart shows a prolonged period of low interest rates, followed by a sharp increase during monetary tightening, and a subsequent gradual decline. Visualising the data made it easier to interpret interest rate cycles and relate theoretical concepts from the module to real-world financial conditions.\nOverall, this visualization demonstrates how quantitative financial data can be transformed into meaningful insights through appropriate graphical representation."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Kalai’s Website",
+    "section": "",
+    "text": "Hi, I’m Kalai, a Year 2 student studying Applied Computing (FinTech) at Singapore Institute of Technology (SIT).\nI’m interested in data analytics, data visualization, and building practical technology solutions that support better decision-making.\nThis website was created as part of my course assessment and includes:\n\nA short self-introduction\n\nA project page (renamed from the default “About” page)\n\nA Data Visualization page featuring a quantitative graph with explanation\n\nA Reflection on the use of GenAI page describing how AI tools supported my learning"
+  },
+  {
+    "objectID": "home.html#hello",
+    "href": "home.html#hello",
+    "title": "Kalai’s Website",
+    "section": "",
+    "text": "Hi, I’m Kalai, a Year 2 student studying Applied Computing (FinTech) at Singapore Institute of Technology (SIT).\nI’m interested in data analytics, data visualization, and building practical technology solutions that support better decision-making.\nThis website was created as part of my course assessment and includes:\n\nA short self-introduction\n\nA project page (renamed from the default “About” page)\n\nA Data Visualization page featuring a quantitative graph with explanation\n\nA Reflection on the use of GenAI page describing how AI tools supported my learning"
+  },
+  {
+    "objectID": "home.html#what-im-currently-learning",
+    "href": "home.html#what-im-currently-learning",
+    "title": "Kalai’s Website",
+    "section": "📘 What I’m currently learning",
+    "text": "📘 What I’m currently learning\n\nUsing Quarto to publish websites with R and RStudio\n\nWriting clear and structured explanations for code and results\n\nPresenting data in a way that tells a meaningful story, rather than just displaying numbers"
+  },
+  {
+    "objectID": "home.html#contact-links",
+    "href": "home.html#contact-links",
+    "title": "Kalai’s Website",
+    "section": "🔗 Contact & Links",
+    "text": "🔗 Contact & Links\n\nGitHub: https://github.com/likalight1\n\nEmail: kalairaajan@gmail.com"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "This page reflects on my experience using Generative AI (GenAI) tools to support the completion of this assessment, particularly in building and documenting my Quarto website."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "This page reflects on my experience using Generative AI (GenAI) tools to support the completion of this assessment, particularly in building and documenting my Quarto website."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used-and-reason-for-choice",
+    "href": "reflection.html#genai-tool-used-and-reason-for-choice",
+    "title": "Reflection on the use of GenAI",
+    "section": "GenAI tool used and reason for choice",
+    "text": "GenAI tool used and reason for choice\nThe primary GenAI tool I used for this assessment was ChatGPT. I chose this tool because of its ability to provide clear explanations, examples, and guidance for both technical and writing-related tasks. As someone still learning how to use Quarto and structure a website, ChatGPT was helpful in breaking down unfamiliar concepts into manageable steps."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-in-completing-the-assessment",
+    "href": "reflection.html#how-genai-helped-in-completing-the-assessment",
+    "title": "Reflection on the use of GenAI",
+    "section": "How GenAI helped in completing the assessment",
+    "text": "How GenAI helped in completing the assessment\nGenAI supported my work in several practical ways throughout the assessment:\n\nIt helped me understand how to structure a Quarto website, including how to organise pages such as the homepage, data visualization page, and reflection page.\nIt provided examples of Quarto (.qmd) formatting, such as YAML headers, headings, and how to embed images correctly.\nIt assisted in drafting clear explanations for my data visualization, especially in explaining what was visualized, the rationale for the chart choice, and the story behind the visualization.\nIt helped refine my writing by improving clarity, flow, and structure while keeping the content aligned with the assessment requirements.\n\nThese examples allowed me to work more efficiently and focus on understanding the concepts rather than struggling with syntax or formatting issues."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits of using GenAI",
+    "text": "Benefits of using GenAI\nOne of the main benefits of using GenAI was time efficiency. It allowed me to quickly obtain guidance and examples when I encountered difficulties, reducing trial-and-error. Additionally, GenAI helped improve the clarity of my explanations, which is especially useful for written assessments that require reflection and justification.\nAnother benefit was that it supported learning by explaining why certain approaches were appropriate, such as why a particular type of chart is suitable for time-series data."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-limitations-of-genai",
+    "href": "reflection.html#challenges-and-limitations-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges and limitations of GenAI",
+    "text": "Challenges and limitations of GenAI\nDespite its benefits, there are also challenges in using GenAI. The outputs provided are not always perfect and require verification. I still needed to test code, check formatting, and ensure that the content accurately reflected my own work.\nThere is also a risk of over-reliance on GenAI. Without careful use, it can be tempting to accept suggestions without fully understanding them. To address this, I made an effort to review and adjust the outputs so that I remained actively involved in the learning process."
+  },
+  {
+    "objectID": "reflection.html#future-use-of-genai-in-study-or-work",
+    "href": "reflection.html#future-use-of-genai-in-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "Future use of GenAI in study or work",
+    "text": "Future use of GenAI in study or work\nIn the future, I believe GenAI tools will be useful for assisting with learning new technologies, debugging code, and drafting documentation or reports. In both academic and professional settings, GenAI can act as a support tool to improve productivity and understanding, especially when working with unfamiliar tools or concepts.\nHowever, I also recognise the importance of using GenAI responsibly, ensuring that it complements rather than replaces critical thinking and independent problem-solving."
+  },
+  {
+    "objectID": "reflection.html#additional-reflections",
+    "href": "reflection.html#additional-reflections",
+    "title": "Reflection on the use of GenAI",
+    "section": "Additional reflections",
+    "text": "Additional reflections\nOverall, using GenAI for this assessment was a positive learning experience. It helped me complete the task more effectively while also improving my understanding of Quarto, data visualization, and reflective writing. When used thoughtfully, GenAI can be a valuable learning aid."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Kalai’s Website",
+    "section": "🧑‍💼 About Me",
+    "text": "🧑‍💼 About Me\n\n\n\nOutside of my academic work, I enjoy staying active and exploring new experiences.\nSome of my hobbies include running and golfing, which help me stay disciplined and focused. More recently, I picked up surfing during a trip to Bali, which sparked a deeper interest in outdoor and adventure-based activities.\nI enjoy travelling and experiencing different cultures, especially trips that involve adventure, nature, and hands-on experiences. These interests reflect my curiosity and willingness to step outside my comfort zone—both personally and academically."
+  },
+  {
+    "objectID": "data-visualization.html#visualization-walkthrough",
+    "href": "data-visualization.html#visualization-walkthrough",
+    "title": "Data Visualization",
+    "section": "🎥 Visualization Walkthrough",
+    "text": "🎥 Visualization Walkthrough\nThe following video provides a visual walkthrough of the data visualization used in this analysis. It complements the static graph by showing how the trends evolve over time and helps viewers better interpret the numerical patterns presented."
   }
 ]

@@ -1,0 +1,56 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+## 🤖 Reflection on the use of GenAI
+
+This page reflects on my experience using Generative AI (GenAI) tools to support the completion of this assessment, particularly in building and documenting my Quarto website.
+
+---
+
+## GenAI tool used and reason for choice
+
+The primary GenAI tool I used for this assessment was **ChatGPT**. I chose this tool because of its ability to provide clear explanations, examples, and guidance for both technical and writing-related tasks. As someone still learning how to use Quarto and structure a website, ChatGPT was helpful in breaking down unfamiliar concepts into manageable steps.
+
+---
+
+## How GenAI helped in completing the assessment
+
+GenAI supported my work in several practical ways throughout the assessment:
+
+- It helped me understand how to structure a Quarto website, including how to organise pages such as the homepage, data visualization page, and reflection page.
+- It provided examples of Quarto (`.qmd`) formatting, such as YAML headers, headings, and how to embed images correctly.
+- It assisted in drafting clear explanations for my data visualization, especially in explaining what was visualized, the rationale for the chart choice, and the story behind the visualization.
+- It helped refine my writing by improving clarity, flow, and structure while keeping the content aligned with the assessment requirements.
+
+These examples allowed me to work more efficiently and focus on understanding the concepts rather than struggling with syntax or formatting issues.
+
+---
+
+## Benefits of using GenAI
+
+One of the main benefits of using GenAI was **time efficiency**. It allowed me to quickly obtain guidance and examples when I encountered difficulties, reducing trial-and-error. Additionally, GenAI helped improve the clarity of my explanations, which is especially useful for written assessments that require reflection and justification.
+
+Another benefit was that it supported learning by explaining *why* certain approaches were appropriate, such as why a particular type of chart is suitable for time-series data.
+
+---
+
+## Challenges and limitations of GenAI
+
+Despite its benefits, there are also challenges in using GenAI. The outputs provided are not always perfect and require verification. I still needed to test code, check formatting, and ensure that the content accurately reflected my own work.
+
+There is also a risk of over-reliance on GenAI. Without careful use, it can be tempting to accept suggestions without fully understanding them. To address this, I made an effort to review and adjust the outputs so that I remained actively involved in the learning process.
+
+---
+
+## Future use of GenAI in study or work
+
+In the future, I believe GenAI tools will be useful for assisting with learning new technologies, debugging code, and drafting documentation or reports. In both academic and professional settings, GenAI can act as a support tool to improve productivity and understanding, especially when working with unfamiliar tools or concepts.
+
+However, I also recognise the importance of using GenAI responsibly, ensuring that it complements rather than replaces critical thinking and independent problem-solving.
+
+---
+
+## Additional reflections
+
+Overall, using GenAI for this assessment was a positive learning experience. It helped me complete the task more effectively while also improving my understanding of Quarto, data visualization, and reflective writing. When used thoughtfully, GenAI can be a valuable learning aid.

@@ -1,11 +1,46 @@
 ---
-title: "temp_website"
+title: "Kalai's Website"
 ---
 
-This is a Quarto website.
+## 👋 Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m **Kalai**, a Year 2 student studying **Applied Computing (FinTech)** at **Singapore Institute of Technology (SIT)**.  
+I’m interested in **data analytics, data visualization, and building practical technology solutions** that support better decision-making.
 
-```{r}
-1 + 1
-```
+This website was created as part of my course assessment and includes:
+
+- A short self-introduction  
+- A project page (renamed from the default “About” page)  
+- A **Data Visualization** page featuring a quantitative graph with explanation  
+- A **Reflection on the use of GenAI** page describing how AI tools supported my learning  
+
+---
+
+## 🧑‍💼 About Me
+
+::: {style="float:left; position: relative; margin-right: 20px; margin-bottom: 10px;"}
+![](images/Kalai.jpg){height="160px"}
+:::
+
+Outside of my academic work, I enjoy staying active and exploring new experiences.  
+Some of my hobbies include **running** and **golfing**, which help me stay disciplined and focused. More recently, I picked up **surfing** during a trip to **Bali**, which sparked a deeper interest in outdoor and adventure-based activities.
+
+I enjoy travelling and experiencing different cultures, especially trips that involve **adventure, nature, and hands-on experiences**. These interests reflect my curiosity and willingness to step outside my comfort zone—both personally and academically.
+
+::: {style="clear: both;"}
+:::
+
+---
+
+## 📘 What I’m currently learning
+
+- Using **Quarto** to publish websites with R and RStudio  
+- Writing clear and structured explanations for code and results  
+- Presenting data in a way that tells a meaningful story, rather than just displaying numbers  
+
+---
+
+## 🔗 Contact & Links
+
+- **GitHub:** https://github.com/likalight1  
+- **Email:** kalairaajan@gmail.com  
